@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ArseniyXaoc/Nerds/issues"
   },
-  "homepage": "https://github.com/ArseniyXaoc/Nerds#readme"
+  "homepage": "https://github.com/ArseniyXaoc/Nerds#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
